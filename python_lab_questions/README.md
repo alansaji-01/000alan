@@ -1,0 +1,38 @@
+# Python Lab Questions and Solutions
+
+MCA Python practical preparation. Each solution is a separate file named after the question.
+
+1. [Remove duplicate crop names and sort](01_remove_duplicate_crop_names.py)
+2. [Vegetable bill with 10% discount](02_vegetable_bill_discount.py)
+3. [Student total, average and grade](03_student_grade_class.py)
+4. [Bank account deposit and withdrawal](04_bank_account.py)
+5. [Count lines and words in a text file](05_count_lines_and_words.py)
+6. [User-defined voting age exception](06_voting_age_exception.py)
+7. [SQLite: insert and display students](07_sqlite_insert_display_students.py)
+8. [SQLite: update course and delete student](08_sqlite_update_delete_student.py)
+9. [Second largest tuple number without sorting](09_second_largest_tuple.py)
+10. [Medicine prices dictionary](10_medicine_price_dictionary.py)
+11. [Employee salary increment](11_employee_salary_increment.py)
+12. [Rectangle area, perimeter and comparison](12_rectangle_compare_area.py)
+13. [Copy file contents in uppercase](13_copy_file_uppercase.py)
+14. [Module: circle area and factorial](14_circle_area_factorial.py), [module file](14_math_module.py)
+15. [SQLite: products priced above 500](15_sqlite_products_above_500.py)
+16. [SQLite: search product and handle missing result](16_sqlite_search_product.py)
+17. [Count vowels and consonants](17_count_vowels_consonants.py)
+18. [Separate even and odd numbers](18_separate_even_odd.py)
+19. [Book discount using a class](19_book_discount_class.py)
+20. [Inheritance and constructor chaining](20_inheritance_constructor_chaining.py)
+21. [CSV: average marks per student](21_csv_average_student_marks.py), [sample CSV](marks.csv)
+22. [Built-in exceptions with try/except/else/finally](22_builtin_exceptions.py)
+23. [SQLite: issue a book](23_sqlite_issue_book.py)
+24. [SQLite: create table and fetch records](24_sqlite_fetch_all_records.py)
+25. [Recursive and iterative factorial/Fibonacci](25_recursion_factorial_fibonacci.py)
+26. [Filter temperatures with list comprehension](26_filter_temperatures.py)
+27. [Patient bill after insurance deduction](27_patient_insurance_bill.py)
+28. [Calculator class and division by zero](28_calculator_class.py)
+29. [Append timestamp and activity to a log](29_activity_log.py)
+30. [Square and cube module](30_square_cube.py), [module file](square_cube_module.py)
+31. [SQLite: count present and absent students](31_sqlite_attendance_count.py)
+32. [SQLite: total monthly expenses with SUM](32_sqlite_monthly_expenses_sum.py)
+
+Run a program from this folder with `python filename.py`. File-handling questions require the named input file in the same folder. Module files must stay beside their main programs. SQLite databases are created automatically.
